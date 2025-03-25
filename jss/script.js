@@ -15,6 +15,7 @@ for ( let i = 1; i <= 100; i++){
         stampa = `${i}`;
     }
     console.log(stampa);
+}
 
 // Ciclo for per numeri crescenti da 1 a 100 e all'interno il ciclo if con le 3 condizioni per stampare Fizz, Buzz o FizzBuzz
     // for ( let i = 1; i <= 100; i++){
@@ -30,11 +31,3 @@ for ( let i = 1; i <= 100; i++){
     //     console.log(i);
     // }
     
-        
-        
-
-    
-
-}
-
-
